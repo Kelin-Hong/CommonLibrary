@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SideBar">
+       <attr name="menu" format="reference"/>
+       <attr name="content" format="reference"/>
+       <attr name="maxoffset" format="dimension"/> 
+    </declare-styleable>
+      <declare-styleable name="SmartDrawer">
+        <attr name="init_open" format="boolean" />
+        <attr name="init_height" format="dimension" />
+    </declare-styleable>
+</resources>

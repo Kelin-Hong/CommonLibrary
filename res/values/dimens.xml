@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <dimen name="pulldown_trigger_refresh_height">50dip</dimen>
+        <dimen name="pulldown_header_height">50dip</dimen>
+        <dimen name="loading_footer_height">50dip</dimen>
+    </resources>
